@@ -14,3 +14,5 @@ Everything you see here is written in the file **pages/page_one.md**. Change the
 You can also add images from the assets folder:
 
 ![The beach at Skagen](./assets/images/skagen.jpg)
+
+What are the advantages of open source software?
