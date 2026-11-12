@@ -13,6 +13,9 @@ In the case of my major, Human Security, which is under Anthropology we are enco
 For a Master’s thesis in Human Security interviews are very important and one student could interview from five to fifteen people on average, not including group interviews. Transcribing all of these interviews would consume a lot of time and energy which could also be allocated to the analysis and development of the student’s thesis given the limited time they have to write and submit their work.
 
 ### License, last commit and contributors
+oTranscribe uses the MIT license, which allows people to do anything they want with a copy of the code as long as they include the original copyright notice and the license text.
+The site’s repository has 522 commits and its most recent one dates to April 27th 2026 and is a merge-pull request authored by *duckduckgrayduck* asking to bump follow-redirects from 1.15.11 to 1.16.0 .
+o.Transcribe currently has 27 contributors, with its most active ones being *ejb*, *duckduckgrayduck* and *rogelj*.
 
 ### Issues answering
 The repository has 34 open issues and 52 closed issues.
