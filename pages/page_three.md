@@ -25,3 +25,9 @@ oTranscribe is funded by the **MuckRock Foundation**, which hosts and maintains 
 
 ## Verdict
 I definitely think oTranscribe might become a useful tool to me in the coming semester, when the time to transcribe the interviews I will have carried in the next few months will come, especially thanks to its translation to Italian given by volunteers. I would also suggest it to other peers who might be having a hard time transcribing interviews for their research projects in other fields. 
+
+*Links*
+[oTranscribegithub] (https://github.com/oTranscribe/oTranscribe?tab=readme-ov-file)
+[MuckRock] (https://www.muckrock.com/about/)
+[oTranscribe] (https://otranscribe.com )
+[privacypolicy] (https://otranscribe.com/privacy/)
