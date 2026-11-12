@@ -4,7 +4,7 @@
 ## oTranscribe
 ### About oTranscribe
 oTranscribe is a free app and open web-tool designed to help in the transcription of recorded interviews.
-It was built by Elliot Bentley and is hosted and maintained by the MuckRock Foundation, which is a US-based non-profit, collaborative organisation helping journalists, researchers and public request, analyse and share government information in order to make politics more transparent.
+It was built by **Elliot Bentley** and is hosted and maintained by the **MuckRock Foundation**, which is a US-based non-profit, collaborative organisation helping journalists, researchers and public request, analyse and share government information in order to make politics more transparent.
 oTranscribe works does not store copies of transcripts nor the audio or video files uploaded.
 
 ### How would oTranscribe help in my major: Human Security?
@@ -21,7 +21,7 @@ o.Transcribe currently has 27 contributors, with its most active ones being *ejb
 The repository has 34 open issues and 52 closed issues.
 
 ### Funding
-oTranscribe is funded by the MuckRock Foundation, which hosts and maintains the site, but seems to rely on donations as well.
+oTranscribe is funded by the **MuckRock Foundation**, which hosts and maintains the site, but seems to rely on **donations** as well.
 
 ## Verdict
 I definitely think oTranscribe might become a useful tool to me in the coming semester, when the time to transcribe the interviews I will have carried in the next few months will come, especially thanks to its translation to Italian given by volunteers. I would also suggest it to other peers who might be having a hard time transcribing interviews for their research projects in other fields. 
