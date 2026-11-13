@@ -21,17 +21,3 @@ This also helps public institutions, such as a municipality with a limited budge
 Unlike proprietary software that can be discontinued overnight, open source projects do not have to die when their creators move on. As a matter of fact, because the source code is publicly available, anyone can fork and improve an abandoned project, giving it a second life and ensuring that students, researchers or anyone that could benefit from its usage can keep using the tool, just like LibreOffice did when it forked and succeeded OpenOffice.
 
 
-This is the first paragraph. The first paragraph after a headline is displayed in a lighter font weight.
-
-Everything you see here is written in the file **pages/page_one.md**. Change the text there, save, and reload the page. You can use **bold**, *italics*, [links](https://www.sdu.dk) and lists:
-
-- one item
-- another item
-
-### A smaller headline
-
-You can also add images from the assets folder:
-
-![The beach at Skagen](./assets/images/skagen.jpg)
-
-What are the advantages of open source software?
