@@ -21,5 +21,6 @@ This also helps public institutions, such as a municipality with a limited budge
 Unlike proprietary software that can be discontinued overnight, open source projects do not have to die when their creators move on. As a matter of fact, because the source code is publicly available, anyone can fork and improve an abandoned project, giving it a second life and ensuring that students, researchers or anyone that could benefit from its usage can keep using the tool, just like LibreOffice did when it forked and succeeded OpenOffice.
 
 
-*links*
+*Links*
+
 [Ministry of defense](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/italian-military-save-26-2) 
