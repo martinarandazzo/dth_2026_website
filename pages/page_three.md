@@ -5,7 +5,7 @@
 ### About oTranscribe
 oTranscribe is a free app and open web-tool designed to help in the transcription of recorded interviews.
 It was built by **Elliot Bentley** and is hosted and maintained by the **MuckRock Foundation**, which is a US-based non-profit, collaborative organisation helping journalists, researchers and public request, analyse and share government information in order to make politics more transparent.
-oTranscribe works does not store copies of transcripts nor the audio or video files uploaded.
+oTranscribe does not store copies of transcripts nor the audio or video files uploaded.
 
 ### How would oTranscribe help in my major: Human Security?
 I believe oTranscribe would be helpful not only in my major but in many other majors whose research involves more qualitative methods such as interviews.
@@ -15,16 +15,18 @@ For a Master’s thesis in Human Security interviews are very important and one 
 ### License, last commit and contributors
 oTranscribe uses the MIT license, which allows people to do anything they want with a copy of the code as long as they include the original copyright notice and the license text.
 The site’s repository has 522 commits and its most recent one dates to April 27th 2026 and is a merge-pull request authored by *duckduckgrayduck* asking to bump follow-redirects from 1.15.11 to 1.16.0 .
-o.Transcribe currently has 27 contributors, with its most active ones being *ejb*, *duckduckgrayduck* and *rogelj*.
+oTranscribe currently has 27 contributors, with its most active ones being *ejb*, *duckduckgrayduck* and *rogelj*.
 
 ### Issues answering
-The repository has 34 open issues and 52 closed issues.
+The repository has 34 open issue, with its most recent one dating to September 1st 2026, and 52 closed issues. Overall, contributors seem to be quite responsive to the issues.
+
 
 ### Funding
 oTranscribe is funded by the **MuckRock Foundation**, which hosts and maintains the site, but seems to rely on **donations** as well.
 
 ## Verdict
 I definitely think oTranscribe might become a useful tool to me in the coming semester, when the time to transcribe the interviews I will have carried in the next few months will come, especially thanks to its translation to Italian given by volunteers. I would also suggest it to other peers who might be having a hard time transcribing interviews for their research projects in other fields. 
+Finally, regarding if I could easily leave the program, I do not think I would encounter any difficulties in doing so as it is a simple tool to help with transcription of audios or videos and does not retain any of my information and material. I would just have to go back to the good old time-consuming transcribing without a tool or  find another tool that works.
 
 *Links*
 
