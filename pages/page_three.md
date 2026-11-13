@@ -28,7 +28,7 @@ I definitely think oTranscribe might become a useful tool to me in the coming se
 
 *Links*
 
-[oTranscribegithub](https://github.com/oTranscribe/oTranscribe?tab=readme-ov-file)
+[oTranscribe github](https://github.com/oTranscribe/oTranscribe?tab=readme-ov-file)
 [MuckRock](https://www.muckrock.com/about/)
 [oTranscribe](https://otranscribe.com )
-[privacypolicy](https://otranscribe.com/privacy/)
+[privacy policy](https://otranscribe.com/privacy/)
