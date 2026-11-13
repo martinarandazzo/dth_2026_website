@@ -3,7 +3,7 @@
 
 ## oTranscribe
 ### About oTranscribe
-oTranscribe is a free app and open web-tool designed to help in the transcription of recorded interviews.
+oTranscribe is a free app and open web-tool designed to help in the transcription of recorded interviewsby combining an integrated media player and a text editor in a single browser window. Users can pause, rewind and adjust playback speed with keyboard shortcuts, insert interactive timestamps and export their text without files ever leaving their browser. 
 It was built by **Elliot Bentley** and is hosted and maintained by the **MuckRock Foundation**, which is a US-based non-profit, collaborative organisation helping journalists, researchers and public request, analyse and share government information in order to make politics more transparent.
 oTranscribe does not store copies of transcripts nor the audio or video files uploaded.
 
