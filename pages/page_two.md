@@ -13,6 +13,6 @@ To cover costs some open source projects might rely on targeted ads, tracking co
 Since most of the work on open source software projects is voluntary, meaning unpaid, sometimes the people working on them might get very busy with their lives, jobs or other projects or might even lose interest in the project itself. Thus, a lot of projects might get abandoned or left alone for long periods of time. This might also lead ill-intentioned people to make use of possible holes or bugs and insert malwares.
 
 
-*Links*
+## References
 
 [XZ Utils Backdoor](https://en.wikipedia.org/wiki/XZ_Utils_backdoor)
